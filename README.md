@@ -1,7 +1,25 @@
 # cucumber_projects
+*Eclipse version*
+
 Eclipse IDE for Java Developers
 Version: Neon.2 Release (4.6.2)
 Build id: 20161208-0600
+
+##How to create project
+
+1. In Eclipse
+File --> New --> Java Project
+Type in <Project Name>
+Click on Next button 
+Choose Libraries tab
+Add external jar files and click on Finish button
+
+Create package
+Click on src folder to call manu and choose Java Package
+Type a name, click on finish
+Create file <name>.feature inside of the package
+The same way create 2 classes files
+Outside of the src folder create <name>.xml file
 
 CucumberProject2
 

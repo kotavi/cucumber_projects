@@ -1,11 +1,11 @@
-package myproject;
+package com.project;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import cucumber.api.java.en.And;
 
-public class ShoppingStep {
+public class amazonSteps {
 
     @Given("^I login to my amazon account$")
     public void loginAmazonAccount() {

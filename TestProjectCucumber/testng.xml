@@ -4,7 +4,7 @@
 <suite name="Suite">
 	<test name="Sanity">
 		<packages>
-			<package name="myproject" />
+			<package name="com/project" />
 		</packages>
 	</test>
 </suite>
