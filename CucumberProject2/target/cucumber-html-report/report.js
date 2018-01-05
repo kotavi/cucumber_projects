@@ -48,21 +48,21 @@ formatter.match({
   "location": "ShoppingStep.loginAmazonAccount()"
 });
 formatter.result({
-  "duration": 77837839,
+  "duration": 78114239,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingStep.noItemsInMyCart()"
 });
 formatter.result({
-  "duration": 34786,
+  "duration": 37831,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingStep.checkoutProcedure()"
 });
 formatter.result({
-  "duration": 35471,
+  "duration": 34411,
   "status": "passed"
 });
 formatter.match({
@@ -75,7 +75,7 @@ formatter.match({
   "location": "ShoppingStep.getError(int)"
 });
 formatter.result({
-  "duration": 1284946,
+  "duration": 1242809,
   "status": "passed"
 });
 formatter.scenario({
@@ -110,7 +110,7 @@ formatter.match({
   "location": "ShoppingStep.loginAmazonAccount()"
 });
 formatter.result({
-  "duration": 40253,
+  "duration": 39731,
   "status": "passed"
 });
 formatter.match({
@@ -123,14 +123,14 @@ formatter.match({
   "location": "ShoppingStep.addItemToCart(int)"
 });
 formatter.result({
-  "duration": 168427,
+  "duration": 147081,
   "status": "passed"
 });
 formatter.match({
   "location": "ShoppingStep.checkoutProcedure()"
 });
 formatter.result({
-  "duration": 25452,
+  "duration": 26807,
   "status": "passed"
 });
 formatter.match({
@@ -143,7 +143,7 @@ formatter.match({
   "location": "ShoppingStep.nItemsInCart(int)"
 });
 formatter.result({
-  "duration": 123762,
+  "duration": 173075,
   "status": "passed"
 });
 });
