@@ -2,9 +2,7 @@
 *Eclipse version*
 
 Eclipse IDE for Java Developers
-
 Version: Neon.2 Release (4.6.2)
-
 Build id: 20161208-0600
 
 ## Useful plugins
