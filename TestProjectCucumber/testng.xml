@@ -2,9 +2,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Suite">
-	<test name="Sanity">
+	<test name="Positive">
 		<packages>
-			<package name="com/project" />
+			<package name="src/com/license" />
 		</packages>
 	</test>
 </suite>

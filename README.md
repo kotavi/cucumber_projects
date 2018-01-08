@@ -5,6 +5,10 @@ Eclipse IDE for Java Developers
 Version: Neon.2 Release (4.6.2)
 Build id: 20161208-0600
 
+## Useful plugins
+
+Chrome plugin 'Tidy Gherkin' - helps keep feature files consistent in layout and well formated
+
 ##How to create project
 
 1. In Eclipse
@@ -15,11 +19,15 @@ Choose Libraries tab
 Add external jar files and click on Finish button
 
 Create package
-Click on src folder to call manu and choose Java Package
+Click on src folder to call menu and choose Java Package
 Type a name, click on finish
 Create file <name>.feature inside of the package
-The same way create 2 classes files
+The same way create required classes files
+
+### Run tests with TestNG
 Outside of the src folder create <name>.xml file
+Create test runner file (for example see http://toolsqa.com/cucumber/cucumber-options/)
+
 
 CucumberProject2
 
@@ -35,3 +43,9 @@ cucumber-junit-1.2.5.jar
 cucumber-java-1.2.5.jar
 cucumber-html-0.2.6.jar
 cucumber-core-1.2.5.jar
+
+
+
+brew install ant
+ant clean
+ant runcukes (see build.xml file)
