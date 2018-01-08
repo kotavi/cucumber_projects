@@ -9,7 +9,7 @@ Build id: 20161208-0600<br />
 
 Chrome plugin 'Tidy Gherkin' - helps keep feature files consistent in layout and well formated
 
-##How to create project
+## How to create project
 
 1. In Eclipse
 File --> New --> Java Project<br />
@@ -18,7 +18,7 @@ Click on Next button <br />
 Choose Libraries tab<br />
 Add external jar files and click on Finish button<br />
 
-###Create package
+### Create package
 Click on src folder to call menu and choose Java Package<br />
 Type a name, click on finish<br />
 Create file <name>.feature inside of the package<br />
