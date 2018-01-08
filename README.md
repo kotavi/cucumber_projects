@@ -1,9 +1,9 @@
 # cucumber_projects
 *Eclipse version*
 
-Eclipse IDE for Java Developers
-Version: Neon.2 Release (4.6.2)
-Build id: 20161208-0600
+Eclipse IDE for Java Developers<br />
+Version: Neon.2 Release (4.6.2)<br />
+Build id: 20161208-0600<br />
 
 ## Useful plugins
 
